@@ -11,7 +11,7 @@
 
 ### :man_technologist: About me
 
-I'm Python developer. Besides that I'm also:
+I'm a :snake: Python developer. Besides that I'm also:
 
 * :man_teacher: A university teacher (C, Python, Linux and so on)
 
