@@ -81,6 +81,6 @@ I'm Python developer. Besides that I'm also:
 
 ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=still-coding&theme=dark)
 
-![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=still-coding&theme=dark)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=still-coding&theme=dark&utcOffset=8)
+![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=still-coding&theme=dark)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=still-coding&theme=dark&utcOffset=3)
 
 ![Streak](https://streak-stats.demolab.com/?user=still-coding&theme=dark&hide_border=true)
