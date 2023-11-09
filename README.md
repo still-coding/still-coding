@@ -2,7 +2,7 @@
 
 
 <div id="badges" align="center">
-    <img src="https://komarev.com/ghpvc/?username=still-coding&base=105&style=for-the-badge"/>
+    <img src="https://komarev.com/ghpvc/?username=still-coding&style=for-the-badge"/>
     <a href="https://exercism.org/profiles/linear-bread">
         <img src="https://img.shields.io/badge/Exercism-7029F5?logo=exercism&logoColor=white&style=for-the-badge"/>
     </a>
